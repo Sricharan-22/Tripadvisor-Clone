@@ -14,7 +14,7 @@ Installation and Usage:
 To view this Trip Advisor Clone page:
 
 Clone this repository to your local machine.
-Copy code: git clone https://github.com/your-username/trip-advisor-clone.git
+Copy code: https://sricharan-22.github.io/Tripadvisor-Clone/
 Open index.html in your web browser.
 Explore the page and interact with the static content.
 
